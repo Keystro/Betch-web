@@ -7,7 +7,7 @@ blinker==1.4
 blueprint==3.4.2
 cffi==1.14.0
 click==7.1.1
-cryptography==2.9
+cryptography==3.2
 dominate==2.5.1
 Flask==1.1.2
 Flask-Admin==1.5.6
